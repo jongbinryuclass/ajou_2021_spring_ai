@@ -5,7 +5,7 @@ from Cryptodome.Util.Padding import pad
 
 def read_txt(fileName):
     with open(fileName, 'rt') as f:
-        list_data = [a.strip('\n' for a in list(f.readlines())]
+        list_data = f.readlines()
     return list_data
 
 def write_json(fileName, data):
@@ -39,4 +39,4 @@ if __name__=="__main__":
     for raw_path, encrypted_path, cast in zip(raw_ans_path, encrypted_ans_path, type_cast):
         ans = read_txt(raw_path)
         # 3. 암호화!(pycrytodome 설치)
-        encrypt_data(key_path, ans, encrypted_path, cast)
+        encrypt_data(key_path, ans, encrypted_path)

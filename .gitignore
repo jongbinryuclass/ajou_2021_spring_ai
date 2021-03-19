@@ -139,3 +139,6 @@ myLog/
 
 # key
 *.pem
+
+EncryptScript/*
+!EncryptScript/Encrypt.py
