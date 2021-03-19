@@ -24,7 +24,7 @@ jobs:
         env:
           API_TOKEN_GITHUB: ${{ secrets.pat }}
         with:
-          public_repo: readerboard_template
+          public_repo: ajou_2021_spring_ai
           public_name: hankyul2
           public_author: consistant1y@ajou.ac.kr
           private_repo: ${{ secrets.repo }}
