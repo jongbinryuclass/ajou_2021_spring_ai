@@ -5,7 +5,7 @@ from Cryptodome.Util.Padding import pad
 
 def read_txt(fileName):
     with open(fileName, 'rt') as f:
-        list_data = [a.strip('\n') for a in f.readlines()]
+        list_data = [a.strip('\n\r') for a in f.readlines()]
     return list_data
 
 def write_json(fileName, data):
