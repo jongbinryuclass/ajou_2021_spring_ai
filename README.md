@@ -87,7 +87,7 @@ Example)
 
    
 
-2. 예측 파일(`ans.txt`)과 본인의 키를 `Encrypt` 폴더에 넣고 `Encrypt.py`를 실행 시켜서 암호화한 예측 파일(`ans.json`)을 만들어 낸 다. 생성한 파일을 본인의 이름으로 된 폴더안(`submission/team1`)에 넣고 커밋 후 푸쉬하면 됨.
+2. 예측 파일(`ans.txt`)과 본인의 키를 `Encrypt` 폴더에 넣고 `Encrypt.py`를 실행 시켜서 암호화한 예측 파일(`ans.json`)을 만들어 낸 다. 생성한 파일을 본인의 팀이름으로 된 폴더안(`submission/team1`)에 넣고 커밋 후 푸쉬하면 됨.
 
    ```python
    # 1.이메일을 통해서 전달 받은 키 파일의 경로 입력
