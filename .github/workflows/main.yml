@@ -25,8 +25,8 @@ jobs:
           API_TOKEN_GITHUB: ${{ secrets.pat }}
         with:
           public_repo: ajou_2021_spring_ai
-          public_name: hankyul2
-          public_author: consistant1y@ajou.ac.kr
+          public_name: jbrbot
+          public_author: colabforever123@gmail.com
           private_repo: ${{ secrets.repo }}
           private_name: ${{ secrets.name }}
           private_author: ${{ secrets.author }}
