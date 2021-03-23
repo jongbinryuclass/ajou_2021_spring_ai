@@ -13,7 +13,7 @@
 
    학습알고리즘: 제한없음
 
-   딥러닝 프레임워크: PyTorch 권장, TensorFlow등 다른 프레임워크도 사용 가능
+   딥러닝 프레임워크: PyTorch, TensorFlow 권장, 다른 프레임워크도 사용 가능
 
    외부데이터: 사용 가능(확인 필요)
 
@@ -21,7 +21,7 @@
 
 4. **팀 구성**: 사전 5인으로 구성된 팀
 
-5. **제출데이터**: nearest neighbor data의 index (github에 제출) + 각 Probe data 별 Gallery data의 distance (#num_of_probe_data * #num_of_gallery_data) 
+5. **제출데이터**: nearest neighbor data의 index (github에 제출) + 각 Probe data 별 Gallery data의 distance (email 제출) #num_of_probe_data * #num_of_gallery_data
 
 6. **대회진행**
 
@@ -34,7 +34,7 @@
 
 7. **최종 결과 산출 방법:** 중간, 기말 시점의 정확도를 일정 비율로 합쳐서 최종 결과에 반영
 
-8. **모델값 제출:** 중간, 기말 시점의 팀별로 구축한 모델의 마지막 출력값을 저장하여(kimsungeun@ajou.ac.kr) 메일로 제출
+8. **거리(distance)값 제출:** 중간, 기말 시점의 팀별로 구축한 모델의 "각 Probe data 별 Gallery data의 distance"를 저장하여(kimsungeun@ajou.ac.kr) 메일로 제출
 
 ## 퍼블릭 랭킹
 
