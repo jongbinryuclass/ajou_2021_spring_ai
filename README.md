@@ -1,7 +1,7 @@
 # [2021 Spring Class] Ajou AI by JBR
 1. **대회목표**: 
    
-   Meta learning을 이용하여 팀별로 자신만의 Distance measure 모델을 만들어 성능 향상시키기
+   팀별로 Query data와 가장 가까운 Gallery data를 찾는 인공지능 만들기
    
    주어진 train data와 train label을 이용하여 Query data와 가장 가까운 Gallery data의 index를 github에 제출
 
