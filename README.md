@@ -3,7 +3,7 @@
    
    팀별로 Query data와 가장 가까운 Gallery data를 찾는 인공지능 만들기
    
-   주어진 train data와 train label을 이용하여 Query data와 가장 가까운 Gallery data의 index를 github에 제출
+   주어진 train data와 train label을 이용하여 Query data와 가장 가까운 Gallery data의 index에 해당하는 class label을 github에 제출
 
 2. **세부 프로토콜**
 
@@ -23,7 +23,7 @@
 
 4. **팀 구성**: 사전 5인으로 구성된 팀
 
-5. **제출데이터**: nearest neighbor data의 index (github에 제출) + 각 Probe data 별 Gallery data의 distance (email 제출) #num_of_probe_data * #num_of_gallery_data
+5. **제출데이터**: nearest neighbor data의 index에 해당하는 class label (github에 제출) + 각 Probe data 별 Gallery data의 distance (email 제출) #num_of_probe_data * #num_of_gallery_data
 
 6. **대회진행**
 
