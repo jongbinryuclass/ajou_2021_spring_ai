@@ -4,7 +4,7 @@
   
 ## 제출 기록  
 이름 : professor  
-**현재 평균 정확도는 0.6363636363636365 입니다. 최고 정확도는 2.7 입니다.**  
+**현재 평균 정확도는 0.5384615384615385 입니다. 최고 정확도는 2.7 입니다.**  
 **Day Count는 같은날 제출한 횟수를 의미 합니다. 총 제출 횟수는 30번으로 제한 됩니다.**
 |No|Accuracy(%)|Submission Time|Day Count|
 | :---: | :---: | :---: | :---: |
@@ -19,6 +19,8 @@
 |9|0|2021-04-30 14:54:53.316134+09:00|You Have Submitted Two Submissions|
 |10|0|2021-04-30 14:56:35.323626+09:00|You Have Submitted Two Submissions|
 |11|0|2021-04-30 14:59:11.732478+09:00|You Have Submitted Two Submissions|
+|12|0|2021-04-30 15:03:58.283600+09:00|You Have Submitted Two Submissions|
+|13|0|2021-04-30 15:05:06.256931+09:00|You Have Submitted Two Submissions|
 
 
 **정확도는 소숫점 5자리 까지 출력됩니다.**
