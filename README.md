@@ -36,7 +36,6 @@
 
 7. **최종 결과 산출 방법:** 중간, 기말 시점의 정확도를 일정 비율로 합쳐서 최종 결과에 반영
 
-8. **거리(distance)값 제출:** 중간, 기말 시점의 팀별로 구축한 모델의 "각 Probe data 별 Gallery data의 distance"를 저장하여(kimsungeun@ajou.ac.kr) 메일로 제출 
 
 ## 퍼블릭 랭킹
 
