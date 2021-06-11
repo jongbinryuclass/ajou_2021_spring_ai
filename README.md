@@ -40,7 +40,7 @@
 ## 퍼블릭 랭킹
 
   
-최종 점수 집계(2021-06-11 17:15:47.332421+09:00): Total Score가 최종 업데이트 되었습니다.  
+최종 점수 집계(2021-06-11 17:16:23.403346+09:00): Total Score가 최종 업데이트 되었습니다.  
 **최종 랭킹 1위는 team1 입니다. 평균 accuracy는 82.04% 입니다.**
 |Ranking|Name|Penalty|Accuracy(%)|Last Submission|Total Submission Count|Total Score(%)|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
